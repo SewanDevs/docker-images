@@ -16,6 +16,10 @@ docker build -t <a docker image name> .
 docker run -it --name <an instance name> <a docker image name> bash
 ```
 
+## Usage
+
+Follow getting-started instructions
+
 ## Update the DockerHub public image
 
 Follow the instructions : https://docs.docker.com/docker-cloud/builds/push-images/
